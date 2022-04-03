@@ -32,9 +32,11 @@ O back-end cria a interface com a API open-bank Safra e com o banco de dados Saf
 <img src="https://raw.githubusercontent.com/matgermano/Hackaton_Safra2022/main/arquitetura.JPG" width="600">
 </div>    
 
-Esta API foi desenvolvida com a intenção de trabalhar de forma conjunta com o app Safra Partners, funcionando de backend da aplicação. Este então oferece
-o controle de usuários, tanto clientes do banco quanto parceiros e administradores do sistema, manejando dados do OpenBanking e oferecendo o controle
-de ofertas e contratos entre usuários e parceiros.
+---
+
+Esta API foi desenvolvida com a intenção de trabalhar de forma conjunta com o app Safra Partners, funcionando de backend da aplicação. Este então oferece o controle de usuários, tanto clientes do banco quanto parceiros e administradores do sistema, manejando dados do OpenBanking e oferecendo o controle de ofertas e contratos entre usuários e parceiros.
+
+---
 	
 Uso (para teste) No diretório raiz:
 
@@ -62,8 +64,8 @@ Gems instaladas (além das padrão do Rails)
 
 Versão:
 
-    1.0b A versão atual suporta o controle de usuários e o uso de token para acesso aos dados, porém os dados obtidos através dos endpoins do openbanking retornam
-    informações padrão, obtidas através da documentação do OpenBanking Brasil, pois apenas as instituições financeiras podem obter acesso aos dados de clientes reais,     após autorização.
+1.0b A versão atual suporta o controle de usuários e o uso de token para acesso aos dados, porém os dados obtidos através dos endpoins do openbanking retornam
+informações padrão, obtidas através da documentação do OpenBanking Brasil, pois apenas as instituições financeiras podem obter acesso aos dados de clientes reais,     após autorização.
     
 [Também é possível acessar a API clicando aqui](https://safrapartners-backend-producti.herokuapp.com/)
     
