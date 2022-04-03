@@ -24,7 +24,13 @@ Você como empresa parceira, acessa a plataforma e oferece seus produtos e servi
 
 # BackEnd
 
-	O back-end cria a interface com a API open-bank Safra e com o banco de dados Safra Partners.
+O back-end cria a interface com a API open-bank Safra e com o banco de dados Safra Partners.
+
+## Arquitetura da aplicação
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/matgermano/Hackaton_Safra2022/main/arquitetura.JPG" width="600">
+</div>    
 
 ## Pacotes necessários
 
@@ -58,6 +64,23 @@ Você como empresa parceira, acessa a plataforma e oferece seus produtos e servi
 # Front-end
 
 O Front-end do aplicativo oferece uma experiência amigável ao usuário do Safra Partners em plataforma mobile. 
+
+## Interface
+
+- Login:
+
+<div>
+<img src="https://raw.githubusercontent.com/matgermano/Hackaton_Safra2022/main/login.png" width="250">
+</div>    
+
+---
+
+- Solicitação do uso do Open Banking:
+<div>
+<img src="https://raw.githubusercontent.com/matgermano/Hackaton_Safra2022/main/opbank.png" width="250">
+</div>    
+
+---
 
 ## Uso (para teste):
 	1- Instalar o framework Flutter e o Android Studio (para uso do SDK).
