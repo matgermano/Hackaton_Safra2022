@@ -22,16 +22,16 @@ Você como empresa parceira, acessa a plataforma e oferece seus produtos e servi
 * [MySQL](https://www.mysql.com/) - Sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface, usado no desenvolvimento. 
 * [Postgress](https://www.postgresql.org/) - Sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface, usado na aplicação. 
 
-# BackEnd
-
-O back-end cria a interface com a API open-bank Safra e com o banco de dados Safra Partners.
-
-## Arquitetura da aplicação
+# Arquitetura da aplicação
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/matgermano/Hackaton_Safra2022/main/arquitetura.JPG" width="600">
 </div>    
 
+
+# BackEnd
+
+O back-end cria a interface com a API open-bank Safra e com o banco de dados Safra Partners.
 ---
 
 Esta API foi desenvolvida com a intenção de trabalhar de forma conjunta com o app Safra Partners, funcionando de backend da aplicação. Este então oferece o controle de usuários, tanto clientes do banco quanto parceiros e administradores do sistema, manejando dados do OpenBanking e oferecendo o controle de ofertas e contratos entre usuários e parceiros.
